@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GAME::Debug" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>Debug.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAME::GameSceneManager" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAYhAAAAwAAAAAABAIAQAABAgAgAAAAI=</HashCode>
+      <FileName>GameSceneManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAME::Graphics" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAAAAAE=</HashCode>
+      <FileName>Graphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAME::Scene" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAIAAAAAAAAAAgAAQAAAAQCAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAME::Scene0" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAwAAQAAAAACAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Scene0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAME::Timer" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAQAAAAAAAAAAAAAAAAAAAAGgAEAEBAA=</HashCode>
+      <FileName>Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GAME::Window" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIAQAAoAAAAgAAAAAABAAaAEAAAEAAAoCEAAAAA=</HashCode>
+      <FileName>Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GAME::EMessageType" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAAAAAAAAEAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Debug.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
